@@ -2,7 +2,7 @@
 <hr/>
 <p>Welcome to my GitHub profile! I am an eager problem solver looking to learn and tackle new challenges with creative solutions and coding algorithms!</p>
 <ul>
-    <li> 🛠️ I am working on <a link="https://github.com/djain106/gambit" alt="">Gambit</a>! 
+    <li> 🛠️ I am working on <a href="https://github.com/djain106/gambit" alt="">Gambit</a>! 
     <li> 📚 I am learning software development and machine learning!</li>
     <li> 📖 I am reading <a link="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291" alt="">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a>!</li>
     <li>💭 I plan on applying machine learning to analyze the <a href="https://disbiome.ugent.be/home" alt="">Disbiome Database</a>!</li>
