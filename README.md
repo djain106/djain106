@@ -8,4 +8,5 @@
     <li>💭 I plan on applying machine learning to analyze the <a href="https://disbiome.ugent.be/home" alt="">Disbiome Database</a>!</li>
     <li>👪 I am looking to collaborate and work on new projects to learn more about coding and computer science! </li>
 <ul>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=djain106&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
